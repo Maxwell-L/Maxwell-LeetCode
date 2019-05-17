@@ -18,3 +18,23 @@ class Solution {
         return false;
     }
 }
+//*******O(log(mn))解法**采用二分查找算法*********************//
+class Solution {
+    public boolean searchMatrix(int[][] matrix, int target) {
+        int row = matrix.length, col = row != 0 ? matrix[0].length : 0;
+        int left = 0, right = row * col - 1;
+        while(left <= right){
+            int mid = (left + right) / 2;
+            if(matrix[mid / col][mid % col] < target){
+                left = mid + 1;
+            }
+            else if(matrix[mid / col][mid % col] > target){
+                right = mid - 1;
+            }
+            else{
+                return true;
+            }
+        }
+        return false;
+    }
+}
