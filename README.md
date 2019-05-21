@@ -16,4 +16,4 @@
 >* [动态规划](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Dynamic%20Programming "Dynamic Programming")<br>
 >* [二分查找](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Binary%20Search "Binary Search")<br>
 
-![Image text](https://github.com/Maxwell-L/MaxwellCode/blob/master/image/pic1.jpg)
+![Image text](https://github.com/Maxwell-L/MaxwellCode/blob/master/image/pic1.jpg "我好菜啊")
