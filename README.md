@@ -4,6 +4,7 @@
 
 数据结构
 ---------
+>* [栈](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Stack "Stack")<br>
 >* [二叉树](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Binary%20Tree "Binary Tree")<br>
 >* [哈希表](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Hash%20Table "Hash Table")<br>
 
