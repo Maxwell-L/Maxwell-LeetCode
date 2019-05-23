@@ -18,4 +18,7 @@
 >* [二分查找](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Binary%20Search "Binary Search")<br>
 >* [贪心算法](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Greedy "Greedy")<br>
 
+其它
+---------
+
 ![Image text](https://github.com/Maxwell-L/MaxwellCode/blob/master/image/pic1.jpg "我好菜啊")
