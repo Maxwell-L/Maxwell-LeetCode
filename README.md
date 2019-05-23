@@ -1,4 +1,4 @@
-﻿MaxwellCode
+﻿凉皮的Code
 ============
 ![Image text](https://github.com/Maxwell-L/MaxwellCode/blob/master/image/pic2.png "只是保存一下刷 LeetCode的代码咯")
 
