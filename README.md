@@ -12,6 +12,7 @@
 
 算法
 ---------
+>* [排序](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Sort "Sort")<br>
 >* [回溯法](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Backtracking "Backtracking")<br>
 >* [深度优先搜索](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Depth-first%20Search "Depth-first Search")<br>
 >* [动态规划](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Dynamic%20Programming "Dynamic Programming")<br>
