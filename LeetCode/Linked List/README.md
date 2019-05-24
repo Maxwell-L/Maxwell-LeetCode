@@ -1,5 +1,6 @@
-# <div align=center>Linked List</div>
+# Linked List
 
+-------------
 
 |ID|Title|Difficulty|
 |:-:|:----:|:--:|
