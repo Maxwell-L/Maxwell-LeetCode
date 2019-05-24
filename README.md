@@ -1,6 +1,6 @@
-# <div align=center>凉皮的Code</div>
+# 凉皮的Code
 
-<div align=center title="只是保存一下刷LeetCode的代码咯"><img src="https://github.com/Maxwell-L/MaxwellCode/blob/master/image/pic2.png" /></div>
+![](https://github.com/Maxwell-L/MaxwellCode/blob/master/image/pic2.png "只是保存一下刷LeetCode的代码咯")
 
 数据结构
 ---------
