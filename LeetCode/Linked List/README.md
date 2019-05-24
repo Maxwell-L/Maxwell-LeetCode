@@ -1,14 +1,12 @@
 # <div align=center>Linked List</div>
 
-<table align=center border="1">
+<div align=center>
+<table align=center>
   <tr>
     <th>ID</th><th>Title</th><th>Difficulty</th>
   </tr>
   <tr>
     <td>2</td><td>Add Two Numbers</td><td>Medium</td>
 </table>
-
-  |ID|Title|Difficulty|
-  |:-:|:-:|:-:|
-  |2|Add Two Numbers|Medium|
+</div>
 
