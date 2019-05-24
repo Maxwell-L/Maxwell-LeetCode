@@ -1,25 +1,25 @@
-# 凉皮的Code
+# Maxwell's Code | 凉皮的Code
 
 ![](https://github.com/Maxwell-L/MaxwellCode/blob/master/image/pic2.png "只是保存一下刷LeetCode的代码咯")
 
-数据结构
+Data Structures | 数据结构
 ---------
->* [链表](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Linked%20List "Linked List")<br>
->* [栈](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Stack "Stack")<br>
->* [字符串](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/String "String")<br>
->* [二叉树](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Binary%20Tree "Binary Tree")<br>
->* [哈希表](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Hash%20Table "Hash Table")<br>
+>* [Linked List | 链表](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Linked%20List "Linked List")<br>
+>* [Stack | 栈](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Stack "Stack")<br>
+>* [String | 字符串](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/String "String")<br>
+>* [Binary Tree | 二叉树](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Binary%20Tree "Binary Tree")<br>
+>* [Hash Table | 哈希表](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Hash%20Table "Hash Table")<br>
 
-算法
+Algorithm | 算法
 ---------
->* [排序](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Sort "Sort")<br>
->* [回溯法](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Backtracking "Backtracking")<br>
->* [深度优先搜索](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Depth-first%20Search "Depth-first Search")<br>
->* [动态规划](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Dynamic%20Programming "Dynamic Programming")<br>
->* [二分查找](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Binary%20Search "Binary Search")<br>
->* [贪心算法](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Greedy "Greedy")<br>
+>* [Sort | 排序](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Sort "Sort")<br>
+>* [Backtracking | 回溯法](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Backtracking "Backtracking")<br>
+>* [Depth-first Search | 深度优先搜索](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Depth-first%20Search "Depth-first Search")<br>
+>* [Dynamic Programming | 动态规划](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Dynamic%20Programming "Dynamic Programming")<br>
+>* [Binary Search | 二分查找](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Binary%20Search "Binary Search")<br>
+>* [Greedy | 贪心算法](https://github.com/Maxwell-L/MaxwellCode/tree/master/LeetCode/Greedy "Greedy")<br>
 
-其它
+Other | 其它
 ---------
 
 ![Image text](https://github.com/Maxwell-L/MaxwellCode/blob/master/image/pic1.jpg "我好菜啊")
