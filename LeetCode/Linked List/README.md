@@ -1,6 +1,4 @@
-# Linked List
-
--------------
+# Linked List | 链表
 
 |ID|Title|Difficulty|
 |:-:|:----:|:--:|
