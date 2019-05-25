@@ -25,4 +25,4 @@ Other | 其它
 ---------
 
 -------------
-![Image text](https://github.com/Maxwell-L/MaxwellCode/blob/master/image/pic1.jpg "我好菜啊")
+<div align=center><img src="https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/image/pic1.jpg"  title="我好菜啊"/></div>
