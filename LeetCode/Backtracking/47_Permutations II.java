@@ -1,3 +1,19 @@
+/**
+ * 47.Permutations II
+ *    Medium
+ * Description:
+ * Given a collection of numbers that might contain duplicates, return all possible unique permutations.
+ *
+ * Example:
+ * Input: [1,1,2]
+ * Output:
+ * [
+ *  [1,1,2],
+ *  [1,2,1],
+ *  [2,1,1]
+ * ]
+ */
+
 class Solution {
     public void dfs(List<List<Integer>> result, List<Integer> left, int[] nums, boolean[] index){
         if(left.size() == nums.length){
