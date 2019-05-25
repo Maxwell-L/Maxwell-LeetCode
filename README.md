@@ -1,6 +1,8 @@
 # Maxwell's Code | 凉皮的Code
 
 ![](https://github.com/Maxwell-L/MaxwellCode/blob/master/image/pic2.png "只是保存一下刷LeetCode的代码咯")
+![](https://github.com/Maxwell-L/MaxwellCode/blob/master/image/pic3.png "只是保存一下刷LeetCode的代码咯")
+![](https://github.com/Maxwell-L/MaxwellCode/blob/master/image/pic4.jpg "只是保存一下刷LeetCode的代码咯")
 
 Data Structures | 数据结构
 ---------
