@@ -1,4 +1,4 @@
-# Linked List | 链表
+﻿# Linked List | 链表
 
 |ID|Title|Difficulty|
 |:-:|:----:|:--:|
@@ -16,3 +16,4 @@
 |143|[Reorder List](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Linked%20List/143_Reorder%20List.java)|Medium|
 |147|[Insertion Sort List](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Linked%20List/147_Insertion%20Sort%20List.java)|Medium|
 |206|[Reverse Linked List](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Linked%20List/206_Reverse%20Linked%20List.java)|Easy|
+|328|[Odd Even Linked List](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Linked%20List/328_Odd%20Even%20Linked%20List.java)|Medium|
