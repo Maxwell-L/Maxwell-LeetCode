@@ -1,4 +1,4 @@
-# Hash Table | ¹þÏ£±í
+# Hash Table | å“ˆå¸Œè¡¨
 
 |ID|Title|Difficulty|
 |:-:|:-:|:-:|
