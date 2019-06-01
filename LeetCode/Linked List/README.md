@@ -10,6 +10,7 @@
 |25|[Reverse Nodes in k-Group](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Linked%20List/25_Reverse%20Nodes%20in%20k-Group.java)|Hard|
 |61|[Rotate List](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Linked%20List/61_Rotate%20List.java)|Medium|
 |82|[Remove Duplicates from Sorted List II](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Linked%20List/82_Remove%20Duplicates%20from%20Sorted%20List%20II.java)|Medium|
+|83|[Remove Duplicates from Sorted List](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Linked%20List/83_Remove%20Duplicates%20from%20Sorted%20List.java)|Easy|
 |86|[Partition List](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Linked%20List/86_Partition%20List.java)|Medium|
 |92|[Reverse Linked List II](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Linked%20List/92_Reverse%20Linked%20List%20II.java)|Medium|
 |138|[Copy List with Random Pointer](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Linked%20List/138_Copy%20List%20with%20Random%20Pointer.java)|Medium|
