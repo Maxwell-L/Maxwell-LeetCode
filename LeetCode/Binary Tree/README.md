@@ -14,4 +14,5 @@
 |111|[Minimum Depth of Binary Tree](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Binary%20Tree/111_Minimum%20Depth%20of%20Binary%20Tree.java)|Easy|
 |124|[Binary Tree Maximum Path Sum](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Binary%20Tree/124_Binary%20Tree%20Maximum%20Path%20Sum.java)|Hard|
 |145|[Binary Tree Postorder Traversal](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Binary%20Tree/145_Binary%20Tree%20Postorder%20Traversal.java)|Hard|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Binary%20Tree/235_Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.java)|Easy|
 |1038|[Binary Search Tree to Greater Sum Tree](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Binary%20Tree/1038_Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.java)|Medium|
