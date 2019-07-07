@@ -7,4 +7,4 @@
 |94|[Binary Tree Inorder Traversal](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Stack/94_Binary%20Tree%20Inorder%20Traversal.java)|Medium|
 |496|[Next Greater Element I](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Stack/496_Next%20Greater%20Element%20I.java)|Easy|
 |503|[Next Greater Element II](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Stack/503_Next%20Greater%20Element%20II.java)|Medium|
-|739|[Daily Temperatures](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Stack/739_Daily%20Temperatures)|Medium|
+|739|[Daily Temperatures](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Stack/739_Daily%20Temperatures.java)|Medium|
