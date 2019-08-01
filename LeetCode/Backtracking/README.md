@@ -1,4 +1,4 @@
-# Backtracking | 回溯法
+﻿# Backtracking | 回溯法
 
 |ID|Title|Difficulty|
 |:-:|:-:|:-:|
@@ -6,6 +6,7 @@
 |22|[Generate Parentheses](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Backtracking/22_Generate%20Parentheses.java)|Medium|
 |37|[Sudoku Solver](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Backtracking/37_Sudoku%20Solver.java)|Hard|
 |39|[Combination Sum](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Backtracking/39_Combination%20Sum.java)|Medium|
+|40|[Combination Sum II](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Backtracking/40_Combination%20Sum%20II.java)|Medium|
 |46|[Permutations](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Backtracking/46_Permutations.java)|Medium|
 |47|[Permutations II](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Backtracking/47_Permutations%20II.java)|Medium|
 |51|[N-Queens](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Backtracking/51_N-Queens.java)|Hard|
