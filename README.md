@@ -1,4 +1,4 @@
-# Maxwell's Code | 凉皮的🐎
+﻿# Maxwell's Code | 凉皮的🐎
 
 ![](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/image/pic2.png "只是保存一下刷LeetCode的代码咯")
 ![](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/image/pic3.png "只是保存一下刷LeetCode的代码咯")
@@ -24,6 +24,7 @@ Algorithm | 算法
 
 Other | 其它
 ---------
+* [Two Pointers | 双指针](https://github.com/Maxwell-L/Maxwell-LeetCode/tree/master/LeetCode/Two%20Pointer "Two Pointer")<br>
 
 -------------
 <div align=center><img src="https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/image/pic1.jpg"  title="我好菜啊"/></div>
