@@ -25,6 +25,6 @@ Algorithm | 算法
 Other | 其它
 ---------
 * [Two Pointers | 双指针](https://github.com/Maxwell-L/Maxwell-LeetCode/tree/master/LeetCode/Two%20Pointers "Two Pointer")<br>
-
+* [Bit Manipulation | 位操作](https://github.com/Maxwell-L/Maxwell-LeetCode/tree/master/LeetCode/Bit%20Manipulation "Bit Manipulation")<br>
 -------------
 <div align=center><img src="https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/image/pic1.jpg"  title="我好菜啊"/></div>
