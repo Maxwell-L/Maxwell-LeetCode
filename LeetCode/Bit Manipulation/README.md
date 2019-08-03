@@ -3,5 +3,6 @@
 |ID|Title|Difficulty|
 |:-:|:-:|:-:|
 |136|[Single Number](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Bit%20Manipulation/136_Single%20Number.java)|Easy|
+|191|[Number of 1 Bits](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Bit%20Manipulation/191_Number%20of%201%20Bits.java)|Easy|
 |231|[Power of Two](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Bit%20Manipulation/231_Power%20of%20Two.java)|Easy|
 |268|[Missing Number](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/LeetCode/Bit%20Manipulation/268_Missing%20Number.java)|Easy|
