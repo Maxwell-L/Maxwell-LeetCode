@@ -8,6 +8,7 @@ Data Structures | 数据结构
 ---------
 * [Linked List | 链表](https://github.com/Maxwell-L/Maxwell-LeetCode/tree/master/LeetCode/Linked%20List "Linked List")<br>
 * [Stack | 栈](https://github.com/Maxwell-L/Maxwell-LeetCode/tree/master/LeetCode/Stack "Stack")<br>
+* [Queue | 队列](https://github.com/Maxwell-L/Maxwell-LeetCode/tree/master/LeetCode/Queue "Queue")<br>
 * [String | 字符串](https://github.com/Maxwell-L/Maxwell-LeetCode/tree/master/LeetCode/String "String")<br>
 * [Binary Tree | 二叉树](https://github.com/Maxwell-L/Maxwell-LeetCode/tree/master/LeetCode/Binary%20Tree "Binary Tree")<br>
 * [Heap | 堆](https://github.com/Maxwell-L/Maxwell-LeetCode/tree/master/LeetCode/Heap "Heap")<br>
