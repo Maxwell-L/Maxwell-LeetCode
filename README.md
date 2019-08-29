@@ -1,4 +1,4 @@
-﻿# Maxwell's Code | 凉皮的🐎
+﻿# 凉皮的🐎
 
 ![](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/image/pic2.png "只是保存一下刷LeetCode的代码咯")
 ![](https://github.com/Maxwell-L/Maxwell-LeetCode/blob/master/image/pic3.png "只是保存一下刷LeetCode的代码咯")
